@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF==1.22.5
+langchain
+faiss-cpu
+langchain-groq
+matplotlib
+python-docx
+Pillow
+langchain_community
+fastembed
